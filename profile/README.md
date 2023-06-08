@@ -5,5 +5,5 @@ visando resolver problemas rapidamente, diminuir o tempo de inatividade de <br>
 cada uma das máquinas, criar uma rotina de manutenção preventiva, e fornecer <br>
 informações relevantes para o negócio como um todo. <br>
 <br><br>
-A monitor mind encerra suas atividades por tempo indeterminado...
+A monitor mind encerra suas atividades por tempo indeterminado...<br>
 Agradecemos a todos os integrantes que fizeram parte disso.
